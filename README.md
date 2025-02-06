@@ -1,6 +1,6 @@
-# 🐉✨ script_copiar_colunas: O Mágico das Planilhas! ✨📊
+# 🐉✨ Script Copiar Colunas ✨📊
 
-**Um facilitador de copiar dados de uma coluna para outra!**  
+**Um facilitador de copiar dados de uma tabela para outra!**  
 *Feito com ❤️, pandas 🐼 e um pouco de chá ☕.*
 
 ---
